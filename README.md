@@ -7,3 +7,8 @@ class : IT-00
 
 1.unity.version: 2022.3.6f1
 2.sevile plugin training version 
+
+# Developer Info
+
+name: vr-gamification
+desc: is't about game vr for shopping
